@@ -1,7 +1,7 @@
 # travel_app
 
 ## Watch vedio demo
-[Link](https://drive.google.com/file/d/10mAnDjZ5NJkGGBynbsqYIiCgkQiJ3EL8/view?usp=drivesdk)
+[Vedio Link](https://drive.google.com/file/d/10mAnDjZ5NJkGGBynbsqYIiCgkQiJ3EL8/view?usp=drivesdk)
 
 A new Flutter project.
 
